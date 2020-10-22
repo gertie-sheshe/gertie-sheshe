@@ -9,17 +9,6 @@ Experience working with Javscript and its frameworks/libraries (ReactJS, EmberJS
 
 ------
 
-#### 🌱  Recent Projects
-
-1. [Africa Data Visualization](https://africa-data.netlify.app/) - Data about African countries displayed visually. React/ChartJS
-
-2. [GitHub Timeline App](https://repo-timeline.netlify.app/) - View a user's GitHub repository timeline. React/Redux/Reselect
-    
-    Wrote an article on building and testing for [accessiblity](https://levelup.gitconnected.com/improving-accessibility-of-my-github-timeline-app-part-one-9b8d40498be) using this app.
-
-3. Personal [portfolio](https://www.gertrudenyenyeshi.com/) Website :) Visit my website to view more talks and articles. Built with React.
-------
-
 #### 🌱  Accessibility Articles + Talks
 
 1. [A11y 101: Nav Bar Tab Order](https://levelup.gitconnected.com/accessibility-101-nav-bar-tab-order-4609887aa53b) - Implementing correct keyboard navigation.
