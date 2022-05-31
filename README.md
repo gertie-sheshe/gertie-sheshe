@@ -1,6 +1,6 @@
 ### Hi I'm Gertrude 👋🏾︎ 👩🏾︎
 
-Software Developer.
+Front End Engineer.
 Community Manager.
 Occasional Technical Writer.
 Accessibility Enthusiast
@@ -20,6 +20,8 @@ Experience working with Javscript and its frameworks/libraries (ReactJS, EmberJS
 4. [Taking Accessibility with you](https://indonidevelopers.org/conference/speaker/1a2bcaba-d61e-58f3-9bbb-4e6454b36f6c/) Talk on understanding your users, designing, buiding and testing for accessibility at Indoni DevConf 2020.
 
 5. [Web Accessibility](https://ihub.co.ke/blogs/33090/three-good-reasons-to-attend-devcraft-2018) Talk on understanding accessibility and how to begin at DevCraft Conference 2018.
+
+Currently doing [100 posts of Accessibility! (2022)](https://gertienyesh.medium.com/)
 
 ------
 #### 💬 Let's connect
