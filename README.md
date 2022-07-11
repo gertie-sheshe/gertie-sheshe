@@ -22,6 +22,12 @@ Reader (Currently reading The Pragmatic Programmer and Clean Code). [Volunteer D
 
 5. [Web Accessibility](https://ihub.co.ke/blogs/33090/three-good-reasons-to-attend-devcraft-2018) Talk on understanding accessibility and how to begin at DevCraft Conference 2018.
 
+------
+
+#### 💕 Frontend Articles + Talks
+
+1. [Frontend Documentation](https://web.facebook.com/photo/?fbid=3864202093634001&set=g.337859743334881&_rdc=1&_rdr) - A brief talk on the importance of documentation on the Frontend.
+2. [Frontend Complexity: Data + State Management](https://www.nyenyeshi.dev/frontend/frontend-complexity-data-state-management) - An opinion piece on how data + state management have increased complexity on the frontend
 
 ------
 #### 💬 Let's connect
