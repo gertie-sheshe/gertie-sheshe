@@ -3,9 +3,10 @@
 Front End Engineer.
 Community Manager.
 Occasional Technical Writer.
-Accessibility Enthusiast
+Accessibility Enthusiast.
+Mentor.
 
-Software Engineer (Front End). Developer Community Manager. Technical Writer (I write tutorials, learning summaries and opinion pieces). Mentor. Accessibility Enthusiast. Reader (Currently reading The Pragmatic Programmer and Clean Code). [Volunteer Developer Lead at Facebook](https://www.facebook.com/groups/DevCEldoret) - grown my community from 60 to 1.6k developers. I share what I learn at meet ups and through [tech articles](https://www.nyenyeshi.dev/)
+Reader (Currently reading The Pragmatic Programmer and Clean Code). [Volunteer Developer Lead at Facebook](https://www.facebook.com/groups/DevCEldoret) - grown my community from 60 to 1.6k developers. I share what I learn at meet ups and through [tech articles](https://www.nyenyeshi.dev/)
 
 ------
 
