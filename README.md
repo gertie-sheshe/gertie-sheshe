@@ -27,7 +27,8 @@ Reader (Currently reading The Pragmatic Programmer and Clean Code). [Volunteer D
 #### 💕 Frontend Articles + Talks
 
 1. [Frontend Documentation](https://web.facebook.com/photo/?fbid=3864202093634001&set=g.337859743334881&_rdc=1&_rdr) - A brief talk on the importance of documentation on the Frontend.
-2. [Frontend Complexity: Data + State Management](https://www.nyenyeshi.dev/frontend/frontend-complexity-data-state-management) - An opinion piece on how data + state management have increased complexity on the frontend
+2. [Frontend Complexity: Data + State Management](https://www.nyenyeshi.dev/frontend/frontend-complexity-data-state-management) - An opinion piece on how data + state management have increased complexity on the frontend.
+3. [Clean Code: Writing Cleaner Reducers](https://www.nyenyeshi.dev/frontend/clean-code-writing-readable-reducers) - A simple refactor to how reducers are written to improve readability.
 
 ------
 #### 💬 Let's connect
