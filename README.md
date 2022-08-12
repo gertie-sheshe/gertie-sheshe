@@ -31,6 +31,12 @@ Reader (Currently reading The Pragmatic Programmer and Clean Code). [Volunteer D
 3. [Clean Code: Writing Cleaner Reducers](https://www.nyenyeshi.dev/frontend/clean-code-writing-readable-reducers) - A simple refactor to how reducers are written to improve readability.
 
 ------
+
+#### ✨ General Technical Articles
+1. [Understanding Chaos Engineering](https://www.nyenyeshi.dev/understanding-chaos-engineering) - A general article I was inspired to write on chaos engineering as I read the book [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+2. [Building my Technical Blog with NextJS, SanityCMS, Sanity Portable/Text-To-React, Styled-Components + Netlify](https://www.nyenyeshi.dev/building-my-technical-blog-with-nextjs-sanitycms-sanity-portable-text-to-react-styled-components) - Early July 2022, I moved my blog from Medium. This article entails the process and the technologies that I used.
+
+------
 #### 💬 Let's connect
 
 1. Learn more about me on [my site](https://www.gertrudenyenyeshi.com/)
