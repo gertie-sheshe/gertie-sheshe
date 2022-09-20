@@ -1,7 +1,7 @@
 ### Hi I'm Gertrude 👋🏾︎ 👩🏾︎
 
 Software Engineer(Javascript/Frontend).
-Accessibility Advocate
+Accessibility Advocate.
 Developer Community Builder.
 Technical Writer.
 Mentor.
