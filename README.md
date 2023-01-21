@@ -4,7 +4,7 @@ I am a Software Engineer(Javascript/Frontend) and Accessibility Advocate.
 
 #### What I am currently up to:
 
-- Founder, Accessibility Africa (https://twitter.com/a11yafrica) - Host technical workshops, offer trainings and organize meetups to raise awareness and improve web accessibility.
+- Founder, [Accessibility Africa](https://twitter.com/a11yafrica) - Host technical workshops, offer trainings and organize meetups to raise awareness and improve web accessibility.
 
 - Senior Software Engineer, Microsoft Leap.
 
