@@ -2,13 +2,6 @@
 
 Frontend Engineer with three obsessions: Usability, Accessibility, and Performance.
 
-#### Things I recently wrote
-1. [Book Review: Responsible Javascript by Jeremy Wagner](https://www.nyenyeshi.dev/book-review-responsible-javascript-by-jeremy-wagner)
-2. [Is Clean Code Performant Code? CSS Layout Considerations. Ethical Design and Accessibility](https://www.nyenyeshi.dev/is-clean-code-performant-code-css-layout-considerations-ethical-design-and-accessibility)
-3. [The Evolution of Web Technologies, React’s Impact, and Progressive Enhancement: Rethinking Web Best Practices.](https://www.nyenyeshi.dev/the-evolution-of-web-technologies-react-s-impact-and-progressive-enhancement-rethinking-web-best)
-4. [Optimizing Javascript for Improved Frontend Performance](https://www.nyenyeshi.dev/optimizing-javascript-for-improved-frontend-performance)
-5. [Strategies for a Resilient Frontend.](https://www.nyenyeshi.dev/strategies-for-a-resilient-frontend)
-
 <!--
 **gertie-sheshe/gertie-sheshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
